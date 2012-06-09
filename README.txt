@@ -1,6 +1,6 @@
 Set No Notification for Elgg 1.8
-Latest Version: 1.8.0
-Released: 2012-05-5
+Latest Version: 1.8.1
+Released: 2012-06-09
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright (c) 2012 iionly (for Elgg 1.8), (c) 2010 Keetup Development
@@ -21,6 +21,11 @@ Installation:
 
 
 Changelog:
+
+1.8.1:
+
+- French translation added (thank to emanwebdev),
+- German translation added.
 
 1.8.0 (by iionly):
 
