@@ -3,7 +3,6 @@
  * setNoNotifications German language file
  */
 
-<?php
 $german = array(
 'setNoNotifications:disabled' => 'Benutzer mit deaktivierter Email-Benachrichtigungseinstellung: ',
 'setNoNotifications:enabled' => 'Benutzer mit aktivierter Email-Benachrichtigungseinstellung: ',
